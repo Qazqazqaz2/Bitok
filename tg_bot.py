@@ -19,7 +19,7 @@ import parser
 
 
 
-TOKEN = '5330557380:AAFE5paJ3iBJXDzWZKO68TwqQalrmQG8ibE'
+TOKEN = 'your telegram token'
 
 
 
